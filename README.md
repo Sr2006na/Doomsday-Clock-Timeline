@@ -19,7 +19,8 @@ This project is for **educational and informational purposes only**. The Doomsda
 This project is closed-source, and modifications or reproductions are strictly prohibited. Unauthorized copying, distribution, or alterations are not permitted.
 
 ## License
-This project is protected under a **custom proprietary license**. No part of this project may be copied, modified, or distributed without explicit permission from the owner.
+This project is protected under a **custom proprietary license**. No part of this project may be copied, modified, or distributed without explicit permission from the owner [License](LICENSE)file for details.
+.
 
 ## Acknowledgments
 Special thanks to the **Bulletin of the Atomic Scientists** for their research and timeline data.
